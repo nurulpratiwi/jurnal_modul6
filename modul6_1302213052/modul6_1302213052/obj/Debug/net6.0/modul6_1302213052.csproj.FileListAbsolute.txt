@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\Documents\jurnal_modul6\jurnal_modul6\modul6_1302213052\modul6_1302213052\obj\Debug\net6.0\modul6_1302213052.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\jurnal_modul6\jurnal_modul6\modul6_1302213052\modul6_1302213052\obj\Debug\net6.0\modul6_1302213052.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\Documents\jurnal_modul6\jurnal_modul6\modul6_1302213052\modul6_1302213052\obj\Debug\net6.0\modul6_1302213052.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\Documents\jurnal_modul6\jurnal_modul6\modul6_1302213052\modul6_1302213052\obj\Debug\net6.0\modul6_1302213052.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\Documents\jurnal_modul6\jurnal_modul6\modul6_1302213052\modul6_1302213052\obj\Debug\net6.0\modul6_1302213052.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\jurnal_modul6\jurnal_modul6\modul6_1302213052\modul6_1302213052\bin\Debug\net6.0\modul6_1302213052.exe
+C:\Users\PRAKTIKAN\Documents\jurnal_modul6\jurnal_modul6\modul6_1302213052\modul6_1302213052\bin\Debug\net6.0\modul6_1302213052.deps.json
+C:\Users\PRAKTIKAN\Documents\jurnal_modul6\jurnal_modul6\modul6_1302213052\modul6_1302213052\bin\Debug\net6.0\modul6_1302213052.runtimeconfig.json
+C:\Users\PRAKTIKAN\Documents\jurnal_modul6\jurnal_modul6\modul6_1302213052\modul6_1302213052\bin\Debug\net6.0\modul6_1302213052.dll
+C:\Users\PRAKTIKAN\Documents\jurnal_modul6\jurnal_modul6\modul6_1302213052\modul6_1302213052\bin\Debug\net6.0\modul6_1302213052.pdb
+C:\Users\PRAKTIKAN\Documents\jurnal_modul6\jurnal_modul6\modul6_1302213052\modul6_1302213052\obj\Debug\net6.0\modul6_1302213052.dll
+C:\Users\PRAKTIKAN\Documents\jurnal_modul6\jurnal_modul6\modul6_1302213052\modul6_1302213052\obj\Debug\net6.0\refint\modul6_1302213052.dll
+C:\Users\PRAKTIKAN\Documents\jurnal_modul6\jurnal_modul6\modul6_1302213052\modul6_1302213052\obj\Debug\net6.0\modul6_1302213052.pdb
+C:\Users\PRAKTIKAN\Documents\jurnal_modul6\jurnal_modul6\modul6_1302213052\modul6_1302213052\obj\Debug\net6.0\modul6_1302213052.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\Documents\jurnal_modul6\jurnal_modul6\modul6_1302213052\modul6_1302213052\obj\Debug\net6.0\ref\modul6_1302213052.dll
